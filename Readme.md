@@ -6,7 +6,7 @@
 You will simulate games of Chutes and Ladders and report on the minimum, maximum, and average number of turns it takes to finish a game.
 
 ## Instructions
-* Complete the method `runGame`. This is where a complete game of Chutes and Ladders is simulated.  This returns the number of turns it took to finish the game.  I would suggest using a `switch` statement to check to if the player landed on a chute or a ladder and their location accordingly.
+* Complete the method `runGame`. This is where a complete game of Chutes and Ladders is simulated.  This returns the number of turns it took to finish the game.  I would suggest using a `switch` statement to check to if the player landed on a chute or a ladder and modify their location accordingly.
 * Complete the method `main`. This method already prompts the user for the number of players and the number of games.  You need to add a loop that will repeatedly call `runGame` and update the results accordingly.  After all of the games have been simulated output the results.
 * Complete all javadoc comment with the proper tags.
 * There are no tests to be run on this.  I will have to grade it manually.
